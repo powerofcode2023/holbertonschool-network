@@ -1,5 +1,4 @@
 #!/bin/env bash
-
 #check  if no argument passed
 if [ ! "$1" ]
 then
